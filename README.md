@@ -23,17 +23,19 @@ My weather app is an application that offers a range of features to help you sta
 5. You can add and delete your favorite locations.
 
 
-### [shoes-app](https://github.com/ONjie/shoes-app)
+### [shoes-app](https://github.com/ONjie/shoes-app) (In Progress)
+Currently building a Shoes App with features like product listing, a shopping cart, Stripe payment integration, order listing, user address etc.
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Dart, JavaScript, and more.
+- **Languages**: Dart, and Java.
 - **Frameworks**: Flutter, Dart Frog.
 - **Tools**: Git, Visual Studio Code, Android Studio, XCode.
+- **State Management**: Bloc
 
 ## 🌱 What I'm Learning
-- Advanced Flutter development: animations, state management, and performance optimization.
+- Advanced Flutter development: animations, unit testing, widget testing, integration testing and performance optimization.
 - Backend development to complement my Flutter apps.
 
 ## 💬 Let's Connect

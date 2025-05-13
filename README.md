@@ -40,7 +40,7 @@ Currently building a Shoes App with features like product listing, a shopping ca
 
 ## 💬 Let's Connect
 - 🤝 [GitHub](https://github.com/ONjie)
-- 📫 [Email](muhammedonjie16@gmail.com)
+- 📫 Email: muhammedonjie16@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 

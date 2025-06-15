@@ -24,12 +24,7 @@ University of The Gambia
 A Flutter project with CRUD functionality and local storage.
 Designed an intuitive user interface for easy note-taking and organization.
 **Tech Stack:** Flutter, Dart, Drift, BLoC.
-** 🎥 App Demo:** [App Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4)
-<video controls width="600">
-  <source src="https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4)
 
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)
@@ -44,6 +39,8 @@ My weather app is an application that offers a range of features to help you sta
 4. Multi-hourly Forecasts: View weather forcasts for the next 24 hours.
 
 5. You can add and delete your favorite locations.
+**Tech Stack:** Flutter, Dart, Supabase, Dart Frog, REST APIs, Drift(Moor)
+**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4)
 
 
 ### [Shoes App](https://github.com/ONjie/shoes-app) (In Progress)

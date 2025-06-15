@@ -24,7 +24,7 @@ University of The Gambia
 A Flutter project with CRUD functionality and local storage.
 Designed an intuitive user interface for easy note-taking and organization.
 **Tech Stack:** Flutter, Dart, Drift, BLoC.
-**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4)
+**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4).
 
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)

@@ -1,6 +1,17 @@
 ## Hi, I'm Muhammed O Njie 👋
 
-### Flutter Developer | Mobile Developer
+## Flutter Developer | Mobile Developer
+
+## 🎓 Education
+**BSc in Computer Science**  
+University of The Gambia  
+
+## 🛠️ Technologies & Tools
+- **Languages & Frameworks**: Flutter,Dart, Dart Frog and Java.
+- **Tools**: Git, Visual Studio Code, Android Studio, XCode, Docker, Postman, GitHub, Code magic.
+- **State Management**: Bloc & Provider.
+- **Practices**: Clean Architecture, MVVM, RESTful APIs, UI/UX Design.
+
 
 ## 🚀 Projects
 
@@ -26,11 +37,7 @@ Currently building a Shoes App with features like product listing, a shopping ca
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Languages**: Dart, and Java.
-- **Frameworks**: Flutter, Dart Frog.
-- **Tools**: Git, Visual Studio Code, Android Studio, XCode.
-- **State Management**: Bloc
+
 
 ## 🌱 What I'm Learning
 - Advanced Flutter development: animations, unit testing, widget testing, integration testing and performance optimization.

@@ -1,8 +1,6 @@
 ## Hi, I'm Muhammed O Njie 👋
 
-**Flutter Developer | Mobile Enthusiast**  
-
-Welcome to my GitHub profile! I'm a passionate Flutter developer who loves creating mobile applications and exploring APIs. Below are some highlights of my work.
+### Flutter Developer | Mobile Developer
 
 ## 🚀 Projects
 

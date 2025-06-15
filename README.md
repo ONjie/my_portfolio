@@ -18,13 +18,18 @@ University of The Gambia
 
 
 
-##  💼 Featured Projects
+##  💼 Projects
 
 ### [Notes App](https://github.com/ONjie/notes_app)
 A Flutter project with CRUD functionality and local storage.
 Designed an intuitive user interface for easy note-taking and organization.
 **Tech Stack:** Flutter, Dart, Drift, BLoC.
-** 🎥 App Demo:** [Demo](https://private-user-images.githubusercontent.com/70782172/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4?raw=true)
+** 🎥 App Demo:** [App Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4)
+<video controls width="600">
+  <source src="https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)

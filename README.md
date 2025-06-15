@@ -2,6 +2,14 @@
 
 ## Flutter Developer | Mobile Developer
 
+---
+
+## 🚀 About Me
+- Passionate mobile developer with hands-on experience building scalable cross-platform mobile apps using **Flutter**.
+- Experienced in building responsive UI, state management (Provider/Bloc), and integrating RESTful APIs and databses.
+
+---
+
 ## 🎓 Education
 **BSc in Computer Science**  
 University of The Gambia  

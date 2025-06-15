@@ -40,7 +40,7 @@ My weather app is an application that offers a range of features to help you sta
 
 5. You can add and delete your favorite locations.
 **Tech Stack:** Flutter, Dart, Supabase, Dart Frog, REST APIs, Drift(Moor)
-**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4)
+**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/420527405-eca8f42b-253a-43ae-a846-0e851c3c130b.mp4)
 
 
 ### [Shoes App](https://github.com/ONjie/shoes-app) (In Progress)
@@ -52,12 +52,8 @@ Currently building a Shoes App with features like product listing, a shopping ca
 - **Languages & Frameworks**: Flutter,Dart, Dart Frog and Java.
 - **Tools**: Git, Visual Studio Code, Android Studio, XCode, Docker, Postman, GitHub, Code magic.
 - **State Management**: Bloc & Provider.
-- **Practices**: Clean Architecture, MVVM, RESTful APIs, UI/UX Design.
+- **Practices**: Clean Architecture, MVVM, RESTful APIs, UI/UX Design, Unit Testing.
 
-
-## 🌱 What I'm Learning
-- Advanced Flutter development: animations, unit testing, widget testing, integration testing and performance optimization.
-- Backend development to complement my Flutter apps.
 
 ## 💬 Let's Connect
 - 🤝 [GitHub](https://github.com/ONjie)

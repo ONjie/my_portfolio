@@ -26,7 +26,7 @@ Designed an intuitive user interface for easy note-taking and organization.
 **Tech Stack:** Flutter, Dart, Drift, BLoC.
 **🔗 Demo**:
 <video src="https://private-user-images.githubusercontent.com/70782172/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4" controls width="100%" style="border-radius: 12px;">
-  Your browser does not support the video tag.
+  
 </video>
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)

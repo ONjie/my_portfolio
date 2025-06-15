@@ -1,15 +1,15 @@
-## Hi there 👋
+## Hi, I'm Muhammed O Njie 👋
 
-I'm Muhammed O Njie 👋
+**Flutter Developer | Mobile Enthusiast**  
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer who loves creating mobile applications and exploring APIs. Below are some highlights of my work.
 
 ## 🚀 Projects
 
-### [notes_app](https://github.com/ONjie/notes_app)
+### [Notes App](https://github.com/ONjie/notes_app)
 A Flutter project with CRUD functionality and local storage. Designed an intuitive user interface for easy note-taking and organization.
 
-### [my_weather_app](https://github.com/ONjie/my_weather_app)
+### [My Weather App](https://github.com/ONjie/my_weather_app)
 My weather app is an application that offers a range of features to help you stay informed about the weather conditions:
 
 1. Real-time Weather Updates: Get up-to-the-minute weather forecasts, including temperature, humidity and more.
@@ -23,7 +23,7 @@ My weather app is an application that offers a range of features to help you sta
 5. You can add and delete your favorite locations.
 
 
-### [shoes-app](https://github.com/ONjie/shoes-app) (In Progress)
+### [Shoes App](https://github.com/ONjie/shoes-app) (In Progress)
 Currently building a Shoes App with features like product listing, a shopping cart, Stripe payment integration, order listing, user address etc.
 
 ---

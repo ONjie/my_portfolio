@@ -37,7 +37,7 @@ Shoes App is a fully featured mobile eCommerce application built using Flutter, 
 - Clean Architecture: The project follows a scalable and testable clean architecture pattern.
 
 **Tech Stack:** Flutter, Dart, Supabase, Dart Frog, Redis, REST APIs, Drift(Moor), Docker, Stripe.
-**🎥 App Demo:** [Demo](https://private-user-images.githubusercontent.com/70782172/466004693-22941de3-9ebb-429d-8b85-e0890ee3b708.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0OTY4ODEsIm5iZiI6MTc1MjQ5NjU4MSwicGF0aCI6Ii83MDc4MjE3Mi80NjYwMDQ2OTMtMjI5NDFkZTMtOWViYi00MjlkLThiODUtZTA4OTBlZTNiNzA4Lm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE0VDEyMzYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2YzZjNWVhZThiYWZkNTMyNmM1MTIxN2YzMzZkZDdjNzczNjIxNmZjNTdkOGM1MTk4NjU3MThlYWNkNmZlYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vcKdhK-wft8Oy-RI_WkA-9Kle7h-GYU4uYiUUVf7Mvw)
+**🎥 App Demo:** [Demo](https://drive.google.com/file/d/173Wbj5IlqLgttohg-PzDazjgCdXziZME/view?usp=share_link)
 
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)

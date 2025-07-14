@@ -33,7 +33,7 @@ Shoes App is a fully featured mobile eCommerce application built using Flutter, 
 - User Authentication: Implemented with Supabase Auth, supporting sign up, sign in, sign out.
 - Account Recovery: Forgot password and change password flows included.
 - Profile Settings: Edit username and upload a profile picture using Supabase Storage.
-- Performance Optimized: Redis used for caching and speeding up user experience.
+- Performance Optimized: Redis used for caching and speeding up user experience. 
 - Clean Architecture: The project follows a scalable and testable clean architecture pattern.
 
 **Tech Stack:** Flutter, Dart, Supabase, Dart Frog, Redis, REST APIs, Drift(Moor), Docker, Stripe.

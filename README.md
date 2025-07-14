@@ -20,11 +20,24 @@ University of The Gambia
 
 ##  💼 Projects
 
-### [Notes App](https://github.com/ONjie/notes_app)
-A Flutter project with CRUD functionality and local storage.
-Designed an intuitive user interface for easy note-taking and organization.
-**Tech Stack:** Flutter, Dart, Drift, BLoC.
-**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4).
+
+### [Shoes App](https://github.com/ONjie/shoes-app)
+Shoes App is a fully featured mobile eCommerce application built using Flutter, designed to offer a seamless shopping experience for users interested in stylish footwear.
+
+- Product Discovery: Browse shoes by brand and category with intuitive filtering and responsive UI.
+- Product Details: View rich information including images, descriptions, sizes, and pricing.
+- Cart & Wishlist: Add shoes to a shopping cart or mark them as favorites for later viewing.
+- Address Management: Add, update, and delete multiple delivery destinations.
+- Secure Payments: Integrated with Stripe for smooth and secure checkout.
+- Order Management: Users can track current orders and review order history.
+- User Authentication: Implemented with Supabase Auth, supporting sign up, sign in, sign out.
+- Account Recovery: Forgot password and change password flows included.
+- Profile Settings: Edit username and upload a profile picture using Supabase Storage.
+- Performance Optimized: Redis used for caching and speeding up user experience.
+- Clean Architecture: The project follows a scalable and testable clean architecture pattern.
+
+**Tech Stack:** Flutter, Dart, Supabase, Dart Frog, Redis, REST APIs, Drift(Moor), Docker, Stripe.
+**🎥 App Demo:** [Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/70782172/466004693-22941de3-9ebb-429d-8b85-e0890ee3b708.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250714T121210Z&X-Amz-Expires=300&X-Amz-Signature=44cfbc49c40cc072cf7f2b02906f8fae11215b4fa097de14dfe8970a931592a1&X-Amz-SignedHeaders=host)
 
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)
@@ -43,8 +56,11 @@ My weather app is an application that offers a range of features to help you sta
 **🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/420527405-eca8f42b-253a-43ae-a846-0e851c3c130b.mp4)
 
 
-### [Shoes App](https://github.com/ONjie/shoes-app) (In Progress)
-Currently building a Shoes App with features like product listing, a shopping cart, Stripe payment integration, order listing, user address etc.
+### [Notes App](https://github.com/ONjie/notes_app)
+A Flutter project with CRUD functionality and local storage.
+Designed an intuitive user interface for easy note-taking and organization.
+**Tech Stack:** Flutter, Dart, Drift, BLoC.
+**🎥 App Demo:** [Demo](https://brcsjatcmrzddkbaqics.supabase.co/storage/v1/object/public/my-portfolio-bucket/app_demo_videos/322663646-e22873bd-8b12-4a69-a3b3-82aa93d9e8c3.mp4).
 
 ---
 

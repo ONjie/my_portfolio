@@ -37,7 +37,7 @@ Shoes App is a fully featured mobile eCommerce application built using Flutter, 
 - Clean Architecture: The project follows a scalable and testable clean architecture pattern.
 
 **Tech Stack:** Flutter, Dart, Supabase, Dart Frog, Redis, REST APIs, Drift(Moor), Docker, Stripe.
-**🎥 App Demo:** [Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/70782172/466004693-22941de3-9ebb-429d-8b85-e0890ee3b708.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250714T121210Z&X-Amz-Expires=300&X-Amz-Signature=44cfbc49c40cc072cf7f2b02906f8fae11215b4fa097de14dfe8970a931592a1&X-Amz-SignedHeaders=host)
+**🎥 App Demo:** [Demo](https://private-user-images.githubusercontent.com/70782172/466004693-22941de3-9ebb-429d-8b85-e0890ee3b708.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0OTY4ODEsIm5iZiI6MTc1MjQ5NjU4MSwicGF0aCI6Ii83MDc4MjE3Mi80NjYwMDQ2OTMtMjI5NDFkZTMtOWViYi00MjlkLThiODUtZTA4OTBlZTNiNzA4Lm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE0VDEyMzYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2YzZjNWVhZThiYWZkNTMyNmM1MTIxN2YzMzZkZDdjNzczNjIxNmZjNTdkOGM1MTk4NjU3MThlYWNkNmZlYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vcKdhK-wft8Oy-RI_WkA-9Kle7h-GYU4uYiUUVf7Mvw)
 
 
 ### [My Weather App](https://github.com/ONjie/my_weather_app)
@@ -65,8 +65,8 @@ Designed an intuitive user interface for easy note-taking and organization.
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages & Frameworks**: Flutter,Dart, Dart Frog and Java.
-- **Tools**: Git, Visual Studio Code, Android Studio, XCode, Docker, Postman, GitHub, Code magic.
+- **Languages & Frameworks**: Flutter, Dart, Dart Frog.
+- **Tools**: Git, Visual Studio Code, Android Studio, XCode, Docker, Postman, GitHub.
 - **State Management**: Bloc & Provider.
 - **Practices**: Clean Architecture, MVVM, RESTful APIs, UI/UX Design, Unit Testing.
 
